@@ -1,0 +1,7 @@
+{
+  "name": "GeoProfile 3D",
+  "description": "A neumorphic-style terrain analysis tool. Draw lines on a global map to generate elevation profiles and analyze terrain features using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
